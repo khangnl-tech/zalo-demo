@@ -1,6 +1,5 @@
 const express = require('express');
 const axios = require('axios');
-require('dotenv').config();
 
 const { v5: uuidv5 } = require('uuid');
 
